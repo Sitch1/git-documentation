@@ -5,4 +5,4 @@ Dustin
 24-12
 
 
-GitHub, Git, Branch, Commit, Push, Pull, Commit und Repository
+GitHub, Git, Branch,Push, Pull, Commit und Repository
